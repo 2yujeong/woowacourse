@@ -14,4 +14,4 @@
 
 #### 미션
 1. [자동차 경주 게임](https://github.com/woowacourse/java-racingcar/tree/seong-wooo)
-
+2. [git 미션](https://github.com/seong-wooo/git-mission)
