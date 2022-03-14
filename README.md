@@ -13,6 +13,7 @@
 ## 본 과정
 
 #### 미션
-1. [자동차 경주 게임](https://github.com/woowacourse/java-racingcar/tree/seong-wooo)
+1. 자동차 경주 게임 [1단계](https://github.com/woowacourse/java-racingcar/pull/272), [2단계](https://github.com/woowacourse/java-racingcar/pull/347)
 2. [git 미션](https://github.com/seong-wooo/git-mission)
-3. [로또](https://github.com/seong-wooo/java-lotto/tree/step1)
+3. 로또 [1단계](https://github.com/seong-wooo/java-lotto/tree/step1), [2단계](https://github.com/woowacourse/java-lotto/pull/422)
+4. 블랙잭 [1단계](https://github.com/woowacourse/java-blackjack/pull/238)
