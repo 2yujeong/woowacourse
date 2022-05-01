@@ -12,8 +12,15 @@
 
 ## 본 과정
 
-#### 미션
+### 미션
+
+#### 1레벨
 1. 자동차 경주 게임 [1단계](https://github.com/woowacourse/java-racingcar/pull/272), [2단계](https://github.com/woowacourse/java-racingcar/pull/347)
 2. [git 미션](https://github.com/seong-wooo/git-mission)
 3. 로또 [1단계](https://github.com/woowacourse/java-lotto/pull/340), [2단계](https://github.com/woowacourse/java-lotto/pull/422)
 4. 블랙잭 [1단계](https://github.com/woowacourse/java-blackjack/pull/238), [2단계](https://github.com/woowacourse/java-blackjack/pull/345)
+5. 체스 [1,2,3단계](https://github.com/woowacourse/java-chess/pull/338), [4,5단계](https://github.com/woowacourse/java-chess/pull/402)
+
+#### 2레벨
+
+1. 웹 체스 [1단계](https://github.com/woowacourse/jwp-chess/pull/336), [2단계](https://github.com/woowacourse/jwp-chess/pull/457)
