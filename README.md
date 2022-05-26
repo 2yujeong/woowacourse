@@ -26,4 +26,4 @@
 #### 2레벨
 1. 웹 체스 [1단계](https://github.com/woowacourse/jwp-chess/pull/336), [2단계](https://github.com/woowacourse/jwp-chess/pull/457)
 2. 지하철 노선도[1,2단계](https://github.com/woowacourse/atdd-subway-map/pull/178). [3단계](https://github.com/woowacourse/atdd-subway-map/pull/311)
-3. [지하철 경로 조회 1단계](https://github.com/woowacourse/atdd-subway-path/pull/190)
+3. [지하철 경로 조회 1단계](https://github.com/woowacourse/atdd-subway-path/pull/190), [2단계](https://github.com/woowacourse/atdd-subway-path/pull/256)
