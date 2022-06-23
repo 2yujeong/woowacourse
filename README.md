@@ -27,3 +27,6 @@
 1. 웹 체스 [1단계](https://github.com/woowacourse/jwp-chess/pull/336), [2단계](https://github.com/woowacourse/jwp-chess/pull/457)
 2. 지하철 노선도[1,2단계](https://github.com/woowacourse/atdd-subway-map/pull/178), [3단계](https://github.com/woowacourse/atdd-subway-map/pull/311)
 3. 지하철 경로 조회 [1단계](https://github.com/woowacourse/atdd-subway-path/pull/190), [2단계](https://github.com/woowacourse/atdd-subway-path/pull/256)
+4. 장바구니 미션 [1단계](https://github.com/woowacourse/jwp-shopping-cart/pull/12), [2단계](https://github.com/woowacourse/jwp-shopping-cart/pull/91)
+
+[레벨2 글쓰기 미션](https://github.com/seong-wooo/woowa-writing-4/blob/seong-wooo/Level2.md)
